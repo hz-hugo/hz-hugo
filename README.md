@@ -37,14 +37,27 @@
 
 ---
 
+<!-- 🗄️ Databases -->
+<h2 align="center">🗄️ Databases</h2>
+<p align="center">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge"/>
+</p>
+
+---
+
 <!-- 🎮 Fun & Interests -->
 <h2 align="center">🎮 Fun & Interests</h2>
 <p align="center">
-  <img alt="Game Dev" src="https://img.shields.io/badge/Game_Dev-FFB347?style=for-the-badge"/>
+  <img alt="UI/UX" src="https://img.shields.io/badge/UI%2FUX-FFB6C1?style=for-the-badge"/>
   <img alt="Teaching" src="https://img.shields.io/badge/Teaching-FF69B4?style=for-the-badge"/>
-  <img alt="I use Arch btw" src="https://img.shields.io/badge/I_use_Arch_btw-1793D1?style=for-the-badge"/>
+  <img alt="Game Dev" src="https://img.shields.io/badge/Game_Dev-FFB347?style=for-the-badge"/>
   <img alt="Retro gamer" src="https://img.shields.io/badge/Retro_Gamer-FFD700?style=for-the-badge"/>
   <img alt="Pixel art enjoyer" src="https://img.shields.io/badge/Pixel_Art_Enjoyer-8AFFC1?style=for-the-badge"/>
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge"/>
+  <img alt="Self-hosting" src="https://img.shields.io/badge/Self-Hosting-87CEFA?style=for-the-badge"/>
+  <img alt="I use Arch btw" src="https://img.shields.io/badge/I_use_Arch_btw-1793D1?style=for-the-badge"/>
 </p>
-
 ---
