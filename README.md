@@ -57,7 +57,7 @@
   <img alt="Retro gamer" src="https://img.shields.io/badge/Retro_Gamer-FFD700?style=for-the-badge"/>
   <img alt="Pixel art enjoyer" src="https://img.shields.io/badge/Pixel_Art_Enjoyer-8AFFC1?style=for-the-badge"/>
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge"/>
-  <img alt="Self hosting" src="https://img.shields.io/badge/Self-Hosting-87CEFA?style=for-the-badge"/>
+  <img alt="Self hosting" src="https://img.shields.io/badge/Self--hosting-87CEFA?style=for-the-badge"/>
   <img alt="I use Arch btw" src="https://img.shields.io/badge/I_use_Arch_btw-1793D1?style=for-the-badge"/>
 </p>
 ---
