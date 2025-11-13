@@ -43,7 +43,6 @@
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge"/>
 </p>
 
 ---
